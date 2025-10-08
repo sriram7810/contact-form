@@ -1,0 +1,46 @@
+please Enter your choice: 1
+Please enter name:  SRIRAM M
+please enter mobile number: 7810962128
+please enter email: srirammurugan7810@gmail.com
+please enter city:  kallakuruchi 
+contact 'SRIRAM M has been successfully added
+
+Contact Book App
+1. Add new contact
+2. View contact
+3. Search contact
+4. Delete Contact
+5. Exit
+please Enter your choice: 2
+
+-- All contacts ---
+Name: SRIRAM M, Mobile: 7810962128, Email: srirammurugan7810@gmail.com, city: kallakuruchi
+contact list is empty!
+
+Contact Book App
+1. Add new contact
+2. View contact
+3. Search contact
+4. Delete Contact
+5. Exit
+please Enter your choice: 3
+please enter name to search: SRIRAM M
+Found: Name: SRIRAM M, Mobile: 7810962128, Email: srirammurugan7810@gmail.com, city: kallakuruchi
+
+Contact Book App
+1. Add new contact
+2. View contact
+3. Search contact
+4. Delete Contact
+5. Exit
+please Enter your choice: 4
+please enter name to delete: SRIRAM M
+
+Contact Book App
+1. Add new contact
+2. View contact
+3. Search contact
+4. Delete Contact
+5. Exit
+please Enter your choice: 5
+Exiting.. Good Bye!

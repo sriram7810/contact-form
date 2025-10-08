@@ -18,7 +18,7 @@ while True:
         else:
             mobile = input("please enter mobile number: ")
             email = input("please enter email: ")
-            city = input("please enter city: sr ")
+            city = input("please enter city:  ")
             contacts[name] = {"mobile": mobile, "email": email, "city": city}
             print(f"contact '{name} has been successfully added")
 
